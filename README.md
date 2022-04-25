@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I am in love with learning new stuff.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ht3aa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ht3aa)](https://github.com/anuraghazra/github-readme-stats)
 <!--- 👯 I’m looking to collaborate on telegram or instagram => @ht3aa-->
 <!--- 🤔 I’m looking for help with ...-->
 
