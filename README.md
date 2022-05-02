@@ -51,6 +51,3 @@ src="https://img.shields.io/github/followers/ht3aa?logo=github&style=for-the-bad
 
 <a href="https://github.com/ht3aa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht3aa&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ht3aa/ Mac-Animation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ht3aa&repo= Mac-Animation&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
