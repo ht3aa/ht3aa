@@ -41,6 +41,10 @@ src="https://img.shields.io/github/followers/ht3aa?logo=github&style=for-the-bad
 
 ### Badges
 
+<b>My Codewars Stats</b>
+
+<a href="https://www.codewars.com/users/ht3aa"><img src="https://www.codewars.com/users/ht3aa/badges/large" alt="codewars stats" /></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ht3aa"><img src="https://github-readme-stats.vercel.app/api?username=ht3aa&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ht3aa's GitHub stats" /></a>
